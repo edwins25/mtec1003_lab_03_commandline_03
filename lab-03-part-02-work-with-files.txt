@@ -200,8 +200,8 @@ It exits the page
 (Some characteristics that may help your description might be the length of the file, whether or not you'd like to read the whole thing... or just the beginning or end, etc.)
 ----------
 
-for:
-less: 
+for>
+less: see less on the page
 more: i want to read the next page
 cat: i have a lot of free time to do some reading
 tail: i want to see the ending
